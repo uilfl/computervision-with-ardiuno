@@ -1,0 +1,5 @@
+cvzone 
+pyfirmata2
+mediapipe
+handdetector
+handtrackingmodule
